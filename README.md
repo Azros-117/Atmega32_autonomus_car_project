@@ -3,7 +3,7 @@ Autonomous car is used various applications it aims to implement a self-driving 
 ![](board_image.png)
 # Flow chart
 ![](Flow_chart.png)
-#Proteus simulation
+# Proteus simulation
 ![](Autonoumus_car_proteus_simulation.png)
-#Test video
+# Test video
 https://drive.google.com/file/d/1opweDoahvFN_D-WvDqLZ1RJrf8NdAtKQ/view?usp=drive_link
